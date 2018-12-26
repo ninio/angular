@@ -147,3 +147,5 @@ Here are the code files discussed on this page.
 * You created the initial application structure using the Angular CLI.
 * You learned that Angular components display data.
 * You used the double curly braces of interpolation to display the app title.
+
+[Next Step: The Hero Editor](tutorial/toh-pt1)
